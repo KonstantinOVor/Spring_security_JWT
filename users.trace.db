@@ -1,0 +1,52 @@
+2024-05-08 14:01:38.033036+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:02:00.185174+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:02:18.862913+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:03:10.884228+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:04:14.466938+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:04:16.625862+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:05:07.641252+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:10:30.075029+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:18:35.028071+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:22:19.809486+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:23:16.717321+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:26:04.187848+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
+2024-05-08 14:30:35.262571+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.email,u1_0.password,u1_0.username from users u1_0 where u1_0.username=? [42102-224]
